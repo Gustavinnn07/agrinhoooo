@@ -57,3 +57,44 @@
 .container__botao {
     display: none;
 }
+
+.container_titulo{
+    display: none;
+}
+
+.opcoes{
+    display: none;
+}
+
+@media screen (min-width: 1024){
+    .container.titulo{
+
+        font-size: 30px;
+        font-weight:700;
+    }
+    .opcoes{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
