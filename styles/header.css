@@ -71,6 +71,7 @@
         display: block;
         font-size: 30px;
         font-weight: 700;
+        margin-right: 200px;
     }
     .opcoes{
         display: flex;
