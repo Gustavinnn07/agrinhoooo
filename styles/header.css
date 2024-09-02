@@ -69,15 +69,15 @@
 @media  (min-width: 1024px){
     .container__titulo{
         display: block;
-        font-size: 50px;
+        font-size: 45px;
         font-weight: 710;
-        margin-right: 2px;
+        margin-right: 200px;
     }
     .opcoes{
         display: flex;
         justify-content: space-between;
         align-items: flex-end;
-        margin: 15px;
+        margin: 20px;
     }
 }
 
