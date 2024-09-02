@@ -73,7 +73,14 @@
         font-weight: 710;
         margin-right: 200px;
     }
+
     .opcoes{
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-end;
+        font-size: 24px;
+    }
+    .opcoes-itens{
         display: flex;
         justify-content: space-between;
         align-items: flex-end;
