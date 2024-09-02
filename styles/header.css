@@ -78,14 +78,14 @@
         display: flex;
         justify-content: space-between;
         align-items: flex-end;
-        font-size: 30px;
+        font-size: 24px;
     }
     .opcoes-itens{
         display: flex;
-        justify-content: space-between;
+        justify-content: center;
         align-items: flex-end;
-        font-size: 30px;
-        margin: 20px;
+        font-size: 20px;
+        margin: 15px;
     }
 }
 
