@@ -2,11 +2,11 @@
     background: var(--azul-degrade);
     color: var(--branco);
     text-align: center;
-    padding: 2.5em 2em;
+    padding: 4.0em 4em;
 }
 
 .banner__titulo {
-    font-size: 18px;
+    font-size: 25px;
     font-weight: 700;
 }
 
@@ -26,7 +26,7 @@
 
 .banner__pesquisa::placeholder {
     font-family: var(--fonte-principal);
-    font-size: 14px;
+    font-size: 20px;
     font-weight: 400;
     text-align: center;
     color: var(--branco);
